@@ -1,4 +1,4 @@
-# IBM-Project1
+# IBM-Project
 Project Title - Corporate Employee Attrition Analytics
 
 Team ID - PNT2022TMID21456
